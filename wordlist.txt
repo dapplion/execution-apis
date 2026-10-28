@@ -54,6 +54,7 @@ exitv
 FCU
 FCUs
 feeRecipient
+fcr
 forkchoiceupdatedresponsev
 FP
 Fulu
